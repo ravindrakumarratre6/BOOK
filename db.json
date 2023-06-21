@@ -1,0 +1,60 @@
+"books": [
+    {
+      "id": 1,
+      "title": "Book 1",
+      "author": "Author 1",
+      "img":"https://m.media-amazon.com/images/I/81u8B-sY+rL._AC_UF1000,1000_QL80_.jpg",
+      "price": 9.99,
+    },
+    {
+      "id": 2,
+      "title": "Book 2",
+      "author": "Author 2",
+      "img":"https://www.universalbook.in/wp-content/uploads/2022/05/Main-2.png",
+      "price": 14.99,
+    },
+
+    {
+      "id": 3,
+      "title": "Book 3",
+      "author": "Author 2",
+      "img":"",
+      "price": 4.99,
+    },
+    {
+      "id": 4,
+      "title": "Book 4",
+      "author": "Author 2",
+      "img":"",
+      "price": 13.99,
+    },
+    {
+      "id": 5,
+      "title": "Book 5",
+      "author": "Author 2",
+      "img":"",
+      "price": 100.99,
+    },
+    {
+      "id": 6,
+      "title": "Book 7",
+      "author": "Author 2",
+      "img":"",
+      "price": 149.99,
+    },
+    {
+      "id": 7,
+      "title": "Book 8",
+      "author": "Author 2",
+      "img":"",
+      "price": 149.99,
+    },
+    {
+      "id":8,
+      "title": "Book 8",
+      "author": "Author 2",
+      "img":"",
+      "price": 149.99,
+    }
+    // Add more books here
+  ];
